@@ -12,18 +12,17 @@ Firstly, you need to preprocess the data at ```Preprocessing.ipynb```. We use IW
 
 Then, there are 3 modes are available with training and validation: 
 
-\begin{itemize}
-\item Soft attention 
+- Soft attention 
 ```
 source va.sh && CUDA_VISIBLE_DEVICES=0 train_soft_mode
  ```
 
-\item Variational categorical attention with exact ELBO
+- Variational categorical attention with exact ELBO
 ```
 source va.sh && CUDA_VISIBLE_DEVICES=0 train_cat_exact_elbo_mode
  ```
 
-\item Variational categorical attention with REINFORCE
+- Variational categorical attention with REINFORCE
 
 ```
 source va.sh && CUDA_VISIBLE_DEVICES=0 train_cat_reinf_mode
