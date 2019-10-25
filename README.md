@@ -34,4 +34,4 @@ source va.sh && CUDA_VISIBLE_DEVICES=0 train_cat_reinf_mode
 
 
 ## Report
-Project proposal, formal description and report are avaliable [here](https://github.com/elena-orlova/var-attention-project/tree/master/documentation).
+Project proposal, formal description and report are avaliable [here](https://github.com/elena-orlova/var-attention-project/blob/master/documentation/Proposal_Bayes.pdf).
