@@ -27,6 +27,11 @@ source va.sh && CUDA_VISIBLE_DEVICES=0 train_cat_exact_elbo_mode
 ```
 source va.sh && CUDA_VISIBLE_DEVICES=0 train_cat_reinf_mode
  ```
+ 
+## Additional resourses
+- Pipeline regarding preprocessing is avaliable [here](https://github.com/elena-orlova/var-attention-project/blob/master/notebooks/preprocessing.ipynb).
+- Several plots description is shown [here](https://github.com/elena-orlova/var-attention-project/blob/master/notebooks/Results%20plots.ipynb)
 
 
-\end{itemize}
+## Report
+Project proposal, formal description and report are avaliable [here](https://github.com/elena-orlova/var-attention-project/tree/master/documentation).
