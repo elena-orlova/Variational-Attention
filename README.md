@@ -1,6 +1,6 @@
 # Latent Alignment and Variational Attention
 
-This is an unofficial Pytorch implementation of the paper 'Latent Alignment and Variational Attention'. 
+This is an unofficial Pytorch implementation of the paper [Latent Alignment and Variational Attention](https://arxiv.org/pdf/1807.03756.pdf). 
 
 ## Requirements
 
